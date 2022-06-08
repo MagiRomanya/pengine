@@ -1,0 +1,4 @@
+[Desktop Entry]
+Type=Application    
+Exec= ./particles
+Terminal=false # set `true' for terminal applications
